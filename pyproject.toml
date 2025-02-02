@@ -2,16 +2,12 @@
 name = "hng12-backend-task"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "agimuche1",email = "agimuche1@gmail.com"}
-]
-[tool.poetry.dependencies]
-readme = "README.md"
-requires-python = ">=3.13"
-dependencies = [
-]
+authors = ["Agimuche1@gmail.com"]
 
+[tool.poetry.dependencies]
+python = "^3.11"
+# Add other dependencies below
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
+requires = ["poetry-core>=1.0.0"]
 build-backend = "poetry.core.masonry.api"
