@@ -2,7 +2,7 @@
 name = "hng12-backend-task"
 version = "0.1.0"
 description = ""
-authors = ["Agimuche1@gmail.com"]
+authors = ["Agimuche <Agimuche1@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
