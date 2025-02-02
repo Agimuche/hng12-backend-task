@@ -9,6 +9,7 @@ python = "^3.11"
 # Add other dependencies below
 uvicorn = "^0.34.0"
 fastapi = "^0.115.8"
+pytz = "^2025.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
